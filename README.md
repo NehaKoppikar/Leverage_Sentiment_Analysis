@@ -1,5 +1,7 @@
 # Leverage_Sentiment_Analysis
 
+[Video Demonstration](https://youtu.be/vzoZ258r0dA)
+
 ## Goal 
 The goal is to better understand the sentiments of people on COVID-19 based on tweets. This tool helps visualize just that!
 
