@@ -21,7 +21,7 @@ from textblob import TextBlob
 
 
 # connecting to database
-mydb = mysql.connector.connect(host="localhost", user="root", passwd="neha", database="TwitterDB", charset="utf8")
+mydb = mysql.connector.connect(host="localhost", user="root", passwd="<password>", database="<name of database>", charset="utf8")
 query = "SELECT id_str, text, created_at, polarity, user_location, user_followers_count FROM {}".format(settings.TABLE_NAME)
 
 # accessing database data
